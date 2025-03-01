@@ -18,8 +18,9 @@
 /vendor/
 
 # Go Modules (https://blog.golang.org/using-go-modules)
-go.sum
-go.mod
+# Ne pas ignorer go.mod et go.sum
+# go.sum
+# go.mod
 
 # Test binary, built with `go test`
 *.test
