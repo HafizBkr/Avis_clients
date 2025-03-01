@@ -1,0 +1,291 @@
+[
+    {
+      "Nom": "Kossi Amegashie",
+      "Email": "kossi.amegashie@example.com",
+      "Avis": "Produit de bonne qualité, je recommande!",
+      "Note": 5
+    },
+    {
+      "Nom": "Ama Doudou",
+      "Email": "ama.doudou@example.com",
+      "Avis": "Très satisfait de la livraison, service rapide.",
+      "Note": 4
+    },
+    {
+      "Nom": "Kwame Akakpo",
+      "Email": "kwame.akakpo@example.com",
+      "Avis": "Le service client est réactif et agréable.",
+      "Note": 5
+    },
+    {
+      "Nom": "Afia Adou",
+      "Email": "afia.adou@example.com",
+      "Avis": "Très bonne expérience, mais un peu cher.",
+      "Note": 3
+    },
+    {
+      "Nom": "Kodjo Gbato",
+      "Email": "kodjo.gbato@example.com",
+      "Avis": "Très satisfait, la qualité est au rendez-vous.",
+      "Note": 5
+    },
+    {
+      "Nom": "Evelyne Tokpo",
+      "Email": "evelyne.tokpo@example.com",
+      "Avis": "Je suis très déçue, la livraison a pris trop de temps.",
+      "Note": 2
+    },
+    {
+      "Nom": "Emmanuel Kpogo",
+      "Email": "emmanuel.kpogo@example.com",
+      "Avis": "Livraison rapide mais produit défectueux.",
+      "Note": 3
+    },
+    {
+      "Nom": "Mireille Gbessi",
+      "Email": "mireille.gbessi@example.com",
+      "Avis": "J'ai adoré, très bonne qualité et service.",
+      "Note": 5
+    },
+    {
+      "Nom": "Tété Atsou",
+      "Email": "tete.atsou@example.com",
+      "Avis": "Bon produit, mais je pense qu'il y a des améliorations à faire.",
+      "Note": 4
+    },
+    {
+      "Nom": "Koffi Agbo",
+      "Email": "koffi.agbo@example.com",
+      "Avis": "Je suis satisfait, mais la livraison pourrait être améliorée.",
+      "Note": 4
+    },
+    {
+      "Nom": "Akouvi Afi",
+      "Email": "akouvi.afi@example.com",
+      "Avis": "Très bon service, je reviendrai sans hésiter.",
+      "Note": 5
+    },
+    {
+      "Nom": "Fabrice Afanou",
+      "Email": "fabrice.afanou@example.com",
+      "Avis": "Produit de bonne qualité, mais il est arrivé en retard.",
+      "Note": 3
+    },
+    {
+      "Nom": "Solange Tchalla",
+      "Email": "solange.tchalla@example.com",
+      "Avis": "Parfait, rien à redire.",
+      "Note": 5
+    },
+    {
+      "Nom": "Koffi Eklu",
+      "Email": "koffi.eklu@example.com",
+      "Avis": "Le produit est bien mais il manque quelques fonctionnalités.",
+      "Note": 4
+    },
+    {
+      "Nom": "Claudine Sessi",
+      "Email": "claudine.sessi@example.com",
+      "Avis": "Je suis assez déçue de l'emballage.",
+      "Note": 2
+    },
+    {
+      "Nom": "Gérard Foli",
+      "Email": "gerard.foli@example.com",
+      "Avis": "Très bonne expérience dans l'ensemble.",
+      "Note": 4
+    },
+    {
+      "Nom": "Sophie Kpadonou",
+      "Email": "sophie.kpadonou@example.com",
+      "Avis": "Je recommande vivement!",
+      "Note": 5
+    },
+    {
+      "Nom": "Tchangbi Dossou",
+      "Email": "tchangbi.dossou@example.com",
+      "Avis": "Le produit est de qualité, mais le prix est élevé.",
+      "Note": 3
+    },
+    {
+      "Nom": "Adama Koffi",
+      "Email": "adama.koffi@example.com",
+      "Avis": "Satisfait à 100%, livraison impeccable.",
+      "Note": 5
+    },
+    {
+      "Nom": "Lydie Mawuena",
+      "Email": "lydie.mawuena@example.com",
+      "Avis": "Bon produit, mais la couleur ne correspond pas à l'image.",
+      "Note": 3
+    },
+    {
+      "Nom": "Pierre Kodjo",
+      "Email": "pierre.kodjo@example.com",
+      "Avis": "Très bonne qualité de service, je reviendrai.",
+      "Note": 4
+    },
+    {
+      "Nom": "Zanou Eklou",
+      "Email": "zanou.eklou@example.com",
+      "Avis": "C'est un excellent produit, j'en suis ravi.",
+      "Note": 5
+    },
+    {
+      "Nom": "Benedicte Koutchou",
+      "Email": "benedicte.koutchou@example.com",
+      "Avis": "Produit bon, mais il faut améliorer la durée de livraison.",
+      "Note": 3
+    },
+    {
+      "Nom": "Assi Yao",
+      "Email": "assi.yao@example.com",
+      "Avis": "Très bien, je recommande vivement!",
+      "Note": 5
+    },
+    {
+      "Nom": "Ghislaine Kokou",
+      "Email": "ghislaine.kokou@example.com",
+      "Avis": "Le produit est bon, mais l'emballage était un peu abîmé.",
+      "Note": 3
+    },
+    {
+      "Nom": "Eric Tchêvi",
+      "Email": "eric.tchevi@example.com",
+      "Avis": "Service rapide et produit conforme.",
+      "Note": 5
+    },
+    {
+      "Nom": "Sandra Kossivi",
+      "Email": "sandra.kossivi@example.com",
+      "Avis": "Bon produit, mais il faut améliorer le service après-vente.",
+      "Note": 4
+    },
+    {
+      "Nom": "Thierry Gnimassou",
+      "Email": "thierry.gnimassou@example.com",
+      "Avis": "Le service était à la hauteur de mes attentes.",
+      "Note": 5
+    },
+    {
+      "Nom": "Moussa Djahouti",
+      "Email": "moussa.djahouti@example.com",
+      "Avis": "Le produit est arrivé avec un léger retard.",
+      "Note": 4
+    },
+    {
+      "Nom": "Kouassi Kokou",
+      "Email": "kouassi.kokou@example.com",
+      "Avis": "Le produit est bon, mais le packaging peut être amélioré.",
+      "Note": 3
+    },
+    {
+      "Nom": "Clarisse Affou",
+      "Email": "clarisse.affou@example.com",
+      "Avis": "Je suis très satisfaite, un excellent produit.",
+      "Note": 5
+    },
+    {
+      "Nom": "Jean-Paul Kpamé",
+      "Email": "jeanpaul.kpame@example.com",
+      "Avis": "Bien dans l'ensemble, mais la communication peut être améliorée.",
+      "Note": 4
+    },
+    {
+      "Nom": "Kossi Assou",
+      "Email": "kossi.assou@example.com",
+      "Avis": "Le produit ne correspond pas totalement à mes attentes.",
+      "Note": 2
+    },
+    {
+      "Nom": "Marie-Ange Fofié",
+      "Email": "marieange.fofie@example.com",
+      "Avis": "Tout est parfait, je recommande!",
+      "Note": 5
+    },
+    {
+      "Nom": "Géraldine Assogba",
+      "Email": "geraldine.assogba@example.com",
+      "Avis": "Service rapide, mais produit un peu trop cher.",
+      "Note": 4
+    },
+    {
+      "Nom": "Koffi Yao",
+      "Email": "koffi.yao@example.com",
+      "Avis": "Bien dans l'ensemble, je suis satisfait.",
+      "Note": 4
+    },
+    {
+      "Nom": "Aminata Koffigoh",
+      "Email": "aminata.koffigoh@example.com",
+      "Avis": "Bonne qualité, mais livraison trop lente.",
+      "Note": 3
+    },
+    {
+      "Nom": "Lamine Téhui",
+      "Email": "lamine.tehui@example.com",
+      "Avis": "Bon produit, livraison rapide.",
+      "Note": 5
+    },
+    {
+      "Nom": "Rachelle Adekou",
+      "Email": "rachelle.adekou@example.com",
+      "Avis": "Produit conforme, mais l'interface du site peut être améliorée.",
+      "Note": 4
+    },
+    {
+      "Nom": "Pascal Kpatcha",
+      "Email": "pascal.kpatcha@example.com",
+      "Avis": "Très bonne qualité de service.",
+      "Note": 5
+    },
+    {
+      "Nom": "Mikailé Djahon",
+      "Email": "mikale.djahon@example.com",
+      "Avis": "Le produit ne correspond pas à l'annonce.",
+      "Note": 2
+    },
+    {
+      "Nom": "Véronique Agbé",
+      "Email": "veronique.agbe@example.com",
+      "Avis": "Très satisfait, produit conforme à la description.",
+      "Note": 5
+    },
+    {
+      "Nom": "Claude Kpaté",
+      "Email": "claude.kpate@example.com",
+      "Avis": "Le service après-vente doit être amélioré.",
+      "Note": 3
+    },
+    {
+      "Nom": "Yannick Kossi",
+      "Email": "yannick.kossi@example.com",
+      "Avis": "Très satisfait de ma commande.",
+      "Note": 5
+    },
+    {
+      "Nom": "Delphine Koudaho",
+      "Email": "delphine.koudaho@example.com",
+      "Avis": "Livraison rapide et produit de qualité.",
+      "Note": 5
+    },
+    {
+      "Nom": "Laurent Ayivi",
+      "Email": "laurent.ayivi@example.com",
+      "Avis": "Bon produit, je recommande.",
+      "Note": 4
+    },
+    {
+      "Nom": "Amélie Gbemedi",
+      "Email": "amelie.gbemedi@example.com",
+      "Avis": "Je suis très déçue, le produit ne correspond pas.",
+      "Note": 2
+    },
+    {
+      "Nom": "Armand Tété",
+      "Email": "armand.tete@example.com",
+      "Avis": "Très bonne qualité de service, rien à redire.",
+      "Note": 5
+    }
+  ]
+  

@@ -1,0 +1,56 @@
+# Binaries
+/bin/
+/obj/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.a
+*.out
+*.test
+
+# Go workspace files
+.idea/
+.vscode/
+
+# Dependency directories
+/vendor/
+
+# Go Modules (https://blog.golang.org/using-go-modules)
+go.sum
+go.mod
+
+# Test binary, built with `go test`
+*.test
+
+# Coverage output
+*.out
+
+# IDE configurations (if you're using specific IDEs)
+*.iml
+*.swp
+
+# Docker files
+Dockerfile
+docker-compose.yml
+
+# Log files
+*.log
+
+# Temp files
+*.tmp
+*.bak
+
+# .env files for environment variables (if used)
+.env
+.env.local
+
+# PostgreSQL
+*.sql
+*.sql.gz
+
+# Miscellaneous
+*.dat
+*.pem
+*.key
